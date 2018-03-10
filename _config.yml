@@ -1,1 +1,32 @@
-theme: jekyll-theme-cayman
+---
+title: "Agencms Documentation"
+description: "The CMS build for Laravel"
+url: https://www.agencms.com
+remote_theme: "mmistakes/minimal-mistakes"
+search: true
+search_full_content: true
+collections:
+  docs:
+    permalink: "/:path/"
+    output: true
+defaults:
+  # _docs
+  - scope:
+      path: _docs
+      type: docs
+    values:
+      layout: single
+      sidebar:
+        nav: "docs"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-sitemap
+- jemoji
+sass:
+  style: compressed
+exclude:
+- ".gitignore"
+- CNAME
+- icomoon-selection.json
+- readme.md

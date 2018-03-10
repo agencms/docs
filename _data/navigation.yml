@@ -1,0 +1,34 @@
+# documentation links
+docs:
+  - title: Getting Started
+    children:
+      - title: "Installation"
+        url: /0101-installation/
+      - title: "Basic Setup"
+        url: /0102-basic-setup/
+      - title: "Example Setup"
+        url: /0103-example-setup/
+  - title: Customization
+    children:
+      - title: "Configuration"
+        url: /0201-configuration/
+      - title: "Configuring Content"
+        url: /0202-configuring-content/
+  - title: Content
+    children:
+      - title: "Routes"
+        url: /0301-routes/
+      - title: "Groups"
+        url: /0302-groups/
+      - title: "Fields"
+        url: /0303-fields/
+  - title: Plugins
+    children:
+      - title: "Authentication"
+        url: /0401-authentication/
+  - title: Meta
+    children:
+      - title: "Website"
+        url: https://www.agencms.com
+      - title: "Github"
+        url: https://www.github.com/agencms
