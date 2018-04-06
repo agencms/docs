@@ -2,12 +2,16 @@
 docs:
   - title: Getting Started
     children:
+      - title: "Prerequisites"
+        url: /0101-prerequisites/
       - title: "Installation"
-        url: /0101-installation/
+        url: /0102-installation/
       - title: "Basic Setup"
-        url: /0102-basic-setup/
+        url: /0103-basic-setup/
       - title: "Example Setup"
-        url: /0103-example-setup/
+        url: /0104-example-setup/
+      - title: "Hello World"
+        url: /0105-hello-world/
   - title: Customization
     children:
       - title: "Configuration"
