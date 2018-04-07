@@ -1,10 +1,8 @@
 ---
 title: Hello World Agencms Tutorial
-toc: true
+toc: false
 ---
-The traditional hello world tutorial is a complete walk-through to get a new Agencms up and running with a new Laravel installation. Some of the steps are already covered in the installation and configuration documentation, however this tutorial will go through each step for clarity.
-
-This tutorial may seem quite long, but most of the steps should be second nature to you if you are familiar with Laravel and it should only take 10-15 minutes to complete.
+This classic hello world tutorial is a complete walk-through to get a new Agencms up and running with a new Laravel installation. Some of the steps are already covered in the installation and configuration documentation, however this tutorial will go through each step for clarity.
 
 ## Installation
 
