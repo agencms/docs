@@ -19,7 +19,7 @@ LARAVELMEDIAMANAGER_CLOUD_NAME=cloud_name
 
 ### Cloudinary Driver
 
-To use the [Cloudinary](https://cloudinary.com/) Image Library you need to configure some environment variables.
+To use the optional [Cloudinary](https://cloudinary.com/) Image Library you need to configure some environment variables.
 
 ```sh
 LARAVELMEDIAMANAGER_DRIVER=cloudinary

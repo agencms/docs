@@ -17,14 +17,6 @@ cd hello-agencms
 ```
 
 * Configure your Database and environment.
-* Configure your Cloudinary environment settings.
-
-```sh
-LARAVELMEDIAMANAGER_DRIVER=cloudinary
-LARAVELMEDIAMANAGER_CLOUD_NAME=cloud_name
-LARAVELMEDIAMANAGER_API_KEY=api_key
-LARAVELMEDIAMANAGER_API_SECRET=api_secret
-```
 
 ### Install Agencms
 
