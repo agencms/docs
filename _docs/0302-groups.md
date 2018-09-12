@@ -1,6 +1,7 @@
 ---
 title: Groups
 toc: true
+
 ---
 Groups are used to define content areas within your CMS which group related content together.
 
@@ -44,7 +45,7 @@ $group->repeater('my-repeater-key')->addGroup(...Groups $group);
 
 ### Adding fields to a Group
 
-To define what content should be rendered inside a group, call the `addField` method. As with Groups, you can supply multiple fields as comma separated parameters ot make multiple calls to the `addField` method.
+To define what content should be rendered inside a group, call the `addField` method. As with Groups, you can supply multiple fields as comma separated parameters to make multiple calls to the `addField` method.
 
 ```php
 $group->addField(...Field $field);
